@@ -1,30 +1,59 @@
+<div align="center">
+
+<img src="https://www.intersoft.com.br/wp-content/uploads/2021/08/logo-intersoft.png" alt="Intersoft Logo" width="280" />
+
 # Intersoft Soluções em Tecnologia
 
-A **Intersoft** é uma empresa brasileira especializada em **soluções sob medida em tecnologia**, com mais de 40 anos de atuação no mercado.
+**+40 anos transformando negócios com tecnologia sob medida**
 
-Atendemos empresas de diferentes portes e segmentos com foco em inovação, qualidade e resultados de negócio.
+[![Website](https://img.shields.io/badge/🌐_Site-intersoft.com.br-blue?style=for-the-badge)](https://www.intersoft.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Intersoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/intersoftsolucoes)
 
-## O que fazemos
+</div>
 
-- Desenvolvimento de **sistemas personalizados**
-- Criação de **sites institucionais** e soluções web
-- Desenvolvimento de **aplicativos**
-- **Integração de sistemas** e modernização tecnológica
-- Consultoria e apoio técnico em projetos digitais
+---
 
-## Diferenciais
+## 🏢 Sobre nós
 
-- Experiência consolidada desde 1983
-- Projetos construídos de forma personalizada para cada cliente
-- Time técnico qualificado e foco em excelência de entrega
-- Relacionamento próximo e parceria de longo prazo
+A **Intersoft** é uma empresa brasileira especializada em **soluções sob medida em tecnologia**, fundada em **1983**.
 
-## Presença
+Atendemos empresas de diferentes portes e segmentos com foco em **inovação**, **qualidade** e **resultados de negócio** — sempre com um relacionamento próximo e parceria de longo prazo.
 
-- Atuação nacional e internacional
-- Bases em **Londrina/PR** e **São Paulo/SP**
+---
 
-## Canais oficiais
+## 🚀 O que fazemos
 
-- Site: https://www.intersoft.com.br/
-- LinkedIn: https://www.linkedin.com/company/intersoftsolucoes
+| Serviço | Descrição |
+|---|---|
+| 🖥️ **Sistemas Personalizados** | Desenvolvimento de sistemas sob medida para cada negócio |
+| 🌐 **Sites & Soluções Web** | Criação de sites institucionais e aplicações web modernas |
+| 📱 **Aplicativos** | Apps mobile e multiplataforma com foco em experiência |
+| 🔗 **Integração de Sistemas** | Modernização e integração de legados e novas plataformas |
+| 💡 **Consultoria Técnica** | Apoio estratégico e técnico em projetos digitais |
+
+---
+
+## ⭐ Nossos diferenciais
+
+- 🏆 **+40 anos** de experiência consolidada no mercado
+- 🎯 Soluções **100% personalizadas** para cada cliente
+- 👥 Time técnico **qualificado** com foco em excelência de entrega
+- 🤝 Parceria de **longo prazo** e relacionamento próximo
+
+---
+
+## 📍 Presença
+
+- 🇧🇷 Atuação **nacional e internacional**
+- 📌 **Londrina/PR** e **São Paulo/SP**
+
+---
+
+<div align="center">
+
+### 💬 Vamos conversar?
+
+[![Site](https://img.shields.io/badge/Acesse_nosso_site-intersoft.com.br-blue?style=for-the-badge)](https://www.intersoft.com.br/)
+[![LinkedIn](https://img.shields.io/badge/Siga_no_LinkedIn-Intersoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/intersoftsolucoes)
+
+</div>
