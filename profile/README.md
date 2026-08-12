@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.intersoft.com.br/wp-content/uploads/2021/08/logo-intersoft.png" alt="Intersoft Logo" width="280" />
+<img src="https://www.intersoft.com.br/images/logo.png" alt="Intersoft Logo" width="280" />
 
 # Intersoft Soluções em Tecnologia
 
